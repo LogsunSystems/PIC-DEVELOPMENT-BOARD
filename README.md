@@ -16,7 +16,7 @@ Logsun’s PIC-DVK LGSL16-300_V1.0 supports 40 pin PIC microcontroller. LGS-PIC-
     * PIC KIT 2
     * System CD ROM. Containing
 
-    + MPLAB 8.92
+    a) MPLAB 8.92
     b) Downloading software, C18 compiler, CCS compiler
     c) Sample code compatible with MPLAB
     d) Circuit diagram and layout.
